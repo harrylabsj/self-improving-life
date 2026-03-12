@@ -1,0 +1,12 @@
+{
+  "ownerId": "ou_1cda33ed7b11a18a47a76e34b82a6486",
+  "slug": "self-improving-life",
+  "version": "1.0.0",
+  "publishedAt": 1773081780000,
+  "tags": ["self-improvement", "life", "balance", "wellness", "chinese"],
+  "compatibility": {
+    "openclaw": ">=1.0.0"
+  },
+  "dependencies": ["self-improving-agent"],
+  "partOfSuite": "self-improving-suite"
+}
